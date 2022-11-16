@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_VinboxIOSNotificationFramework_VinboxIOSNotificationFrameworkTests : NSObject
+@end
+@implementation PodsDummy_Pods_VinboxIOSNotificationFramework_VinboxIOSNotificationFrameworkTests
+@end
