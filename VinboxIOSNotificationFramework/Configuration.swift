@@ -13,5 +13,5 @@ public struct Configuration{
     static let PROJECT_ID = "vinbox-ios-notification-a20a4";
     static let API_KEY = "AIzaSyCcjrh2lbmKtiUWNUDrrO1jZD9kAJuabKc";
     static let DATABASE_URL = "https://vinbox-ios-notification-a20a4-default-rtdb.firebaseio.com/";
-    static let API_URL = "https://t1.vsu1t.com/fcmwebpush/apppush/subscription";
+    static let API_URL = "https://digimate1.vinbox.in/fcmwebpush/apppush/subscription";
 }
