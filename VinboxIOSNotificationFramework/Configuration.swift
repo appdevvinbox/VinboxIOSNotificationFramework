@@ -8,7 +8,7 @@
 import Foundation
 
 public struct Configuration{
-    static let GOOGLE_APP_ID = "1:723309228396:ios:c89d2ebe03ec029d5c4349";
+    static let GOOGLE_APP_ID = "1:723309228396:ios:d96960f0feea0ce55c4349";
     static let GCM_SENDER_ID = "723309228396";
     static let PROJECT_ID = "central-bank-of-india-3a489";
     static let API_KEY = "AIzaSyCuoa_279cwh-jbYygnkBlSVrmwL2iIK8o";
